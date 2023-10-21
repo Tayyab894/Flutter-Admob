@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "e4257d2a1ed6bcca93fe40592fdbdb6b4f2aff120b97cc2d28d65b0c8788181e"
+build_start_time: [1673713671, 33143043]
+build_end_time: [1673713674, 348232984]
+inputs:
+  "/Users/mac/Desktop/Flutters Apps/Urraan Online Work/flutter_admob/ios/Runner/AppDelegate.swift": [1639636304, 0]
